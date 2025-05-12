@@ -1,0 +1,3 @@
+[submodule "apps/yashsite"]
+	path = apps/yashsite
+	url = https://github.com/Yash1943/frappe-15.git
