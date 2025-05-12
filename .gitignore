@@ -1,0 +1,33 @@
+# Ignore Python virtual environment
+env/
+
+# Ignore logs
+logs/
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore lock files
+*.lock# Ignore Python virtual environment
+env/
+
+# Ignore logs
+logs/
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore lock files
+*.lock
